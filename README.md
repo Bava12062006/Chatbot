@@ -8,6 +8,10 @@
 
 **DOMAIN NAME**:PYTHON PROGRAMMING
 
-*INTERNSHIP DATE*:December 25th to January 25th
+**INTERNSHIP DATE**:December 25th to January 25th
 
-*MENTOR NAME*:NEELA SANTHOSH
+**MENTOR NAME**:NEELA SANTHOSH
+
+
+
+#Description This Python program is a simple chatbot designed using the Natural Language Toolkit (NLTK) library. The chatbot is capable of recognizing user input and providing appropriate responses based on predefined patterns.
